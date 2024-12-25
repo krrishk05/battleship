@@ -1,3 +1,3 @@
 # battleship
 
-Description and user guide of the project: https://docs.google.com/document/d/1pfUsk9nD3yn5XhQhPOLbQJtxl3yjUBgUCkA158Tb7CE/edit?usp=sharing
+Description and user guide of the project: [Link](https://drive.google.com/file/d/1WE4AP_tKzgdHVB00yBp3iFtIxVVaVly1/view?usp=sharing)
